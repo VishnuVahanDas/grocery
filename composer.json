@@ -28,7 +28,7 @@
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.3",
-        "laravel/framework": "^8.62",
+        "laravel/framework": "^9.52",
         "league/flysystem-aws-s3-v3": "^1.0",
         "wikimedia/composer-merge-plugin": "^2.0"
     },
